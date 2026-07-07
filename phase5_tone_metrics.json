@@ -1,0 +1,17 @@
+{
+  "logged_at": "2026-06-05T22:12:03",
+  "backend": "json_fallback",
+  "accuracy": 0.7894736842105263,
+  "labels": [
+    "Aspirational",
+    "Educational",
+    "Humorous",
+    "Melancholic",
+    "Outrage",
+    "Relaxing",
+    "Romantic"
+  ],
+  "train_rows": 112,
+  "test_rows": 38,
+  "model_file": "emotional_tone_classifier.pkl"
+}

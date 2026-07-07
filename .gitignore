@@ -1,0 +1,7 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+*.db-journal
+*.db-wal
+*.db-shm
